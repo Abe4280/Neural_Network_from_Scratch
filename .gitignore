@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # PDF
-.pdf
+*.pdf
